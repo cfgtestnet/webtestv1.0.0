@@ -1,5 +1,6 @@
  .u-section-1 {
   background-image: url("images/ZjmbC0D-Recovered1.png");
+  background-position: 50% 50%;
   min-height: 1091px;
 }
 
@@ -20,7 +21,6 @@
 
 @media (max-width: 1199px) {
    .u-section-1 {
-    background-position: 50% 50%;
     min-height: 900px;
   }
 
@@ -64,7 +64,8 @@
 
 @media (max-width: 575px) {
    .u-section-1 {
-    min-height: 326px;
+    background-position: 50% 50%;
+    min-height: 668px;
   }
 
   .u-section-1 .u-text-1 {
@@ -79,6 +80,7 @@
   }
 } .u-section-2 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/7d4f0734-43ed-4304-80cb-7ba55a2d7c641.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-2 .u-sheet-1 {
@@ -176,10 +178,6 @@
 }
 
 @media (max-width: 1199px) {
-   .u-section-2 {
-    background-position: 50% 50%;
-  }
-
   .u-section-2 .u-sheet-1 {
     min-height: 921px;
   }
@@ -310,6 +308,10 @@
 }
 
 @media (max-width: 575px) {
+   .u-section-2 {
+    background-position: 50% 50%;
+  }
+
   .u-section-2 .u-sheet-1 {
     min-height: 351px;
   }
@@ -1112,6 +1114,7 @@
   border-color: transparent !important;
 } .u-section-4 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/7d4f0734-43ed-4304-80cb-7ba55a2d7c641.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-4 .u-sheet-1 {
@@ -1311,10 +1314,6 @@
 }
 
 @media (max-width: 1199px) {
-   .u-section-4 {
-    background-position: 50% 50%;
-  }
-
   .u-section-4 .u-sheet-1 {
     min-height: 50vw;
   }
@@ -1528,6 +1527,10 @@
 }
 
 @media (max-width: 575px) {
+   .u-section-4 {
+    background-position: 50% 50%;
+  }
+
   .u-section-4 .u-sheet-1 {
     min-height: 1762px;
   }
@@ -3093,6 +3096,7 @@
   }
 } .u-section-6 {
   background-image: url("images/7d4f0734-43ed-4304-80cb-7ba55a2d7c641.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-6 .u-sheet-1 {
@@ -3142,10 +3146,6 @@
 }
 
 @media (max-width: 1199px) {
-   .u-section-6 {
-    background-position: 50% 50%;
-  }
-
   .u-section-6 .u-sheet-1 {
     min-height: 469px;
   }
@@ -3226,6 +3226,10 @@
 }
 
 @media (max-width: 575px) {
+   .u-section-6 {
+    background-position: 50% 50%;
+  }
+
   .u-section-6 .u-sheet-1 {
     min-height: 604px;
   }
