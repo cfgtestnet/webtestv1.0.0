@@ -2477,7 +2477,6 @@
   grid-template-columns: calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px);
   grid-gap: 10px 10px;
   min-height: 188px;
-  grid-auto-columns: calc(33.3333% - 6.66667px);
 }
 
 .u-section-6 .u-image-1 {
@@ -2547,7 +2546,6 @@
 
   .u-section-6 .u-repeater-1 {
     min-height: 356px;
-    grid-auto-columns: calc(50% - 5.0000025px);
   }
 }
 
@@ -2571,7 +2569,6 @@
   .u-section-6 .u-repeater-1 {
     grid-template-columns: 100%;
     min-height: 521px;
-    grid-auto-columns: 100%;
   }
 
   .u-section-6 .u-container-layout-1 {
